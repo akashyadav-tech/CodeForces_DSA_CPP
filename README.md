@@ -6,20 +6,28 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 2 | 2 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [strings](#strings) (1)
+- [implementation](#implementation) (1)
+- [strings](#strings) (2)
 
 ---
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 131A | [cAPS lOCK](https://codeforces.com/contest/131/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/131/A%20-%20cAPS%20lOCK/solution.cpp) |
 
 ### strings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 131A | [cAPS lOCK](https://codeforces.com/contest/131/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/131/A%20-%20cAPS%20lOCK/solution.cpp) |
 | 208A | [Dubstep](https://codeforces.com/contest/208/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/208/A%20-%20Dubstep/solution.cpp) |
 
 ---
