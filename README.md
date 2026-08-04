@@ -6,18 +6,25 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 4 |
+| 9 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (1)
 - [implementation](#implementation) (5)
 - [sortings](#sortings) (1)
 - [strings](#strings) (8)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 
 ### brute force
 
