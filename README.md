@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 27 | 7 |
+| 28 | 7 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [Uncategorized](#uncategorized) (5)
 - [brute force](#brute-force) (2)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (17)
+- [implementation](#implementation) (18)
 - [math](#math) (5)
 - [sortings](#sortings) (2)
 - [strings](#strings) (8)
@@ -61,6 +61,7 @@
 | 510A | [Fox And Snake](https://codeforces.com/contest/510/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/510/A%20-%20Fox%20And%20Snake/solution.cpp) |
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.cpp) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
+| 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
 | 977B | [Two-gram](https://codeforces.com/contest/977/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/977/B%20-%20Two-gram/solution.cpp) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
