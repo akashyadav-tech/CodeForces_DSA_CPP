@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 31 | 7 |
+| 32 | 7 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [brute force](#brute-force) (3)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (20)
-- [math](#math) (6)
+- [math](#math) (7)
 - [sortings](#sortings) (2)
 - [strings](#strings) (8)
 
@@ -82,6 +82,7 @@
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
+| 2257B | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/2257/B%20-%20Gigantomachy/solution.cpp) |
 
 ### sortings
 
