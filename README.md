@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 44 | 10 |
+| 45 | 10 |
 
 ---
 
@@ -18,8 +18,8 @@
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [greedy](#greedy) (6)
-- [implementation](#implementation) (32)
-- [math](#math) (10)
+- [implementation](#implementation) (33)
+- [math](#math) (11)
 - [sortings](#sortings) (3)
 - [strings](#strings) (10)
 
@@ -103,6 +103,7 @@
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.cpp) |
 | 1095A | [Repeating Cipher](https://codeforces.com/contest/1095/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1095/A%20-%20Repeating%20Cipher/solution.cpp) |
 | 1097A | [Gennady and a Card Game](https://codeforces.com/contest/1097/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1097/A%20-%20Gennady%20and%20a%20Card%20Game/solution.cpp) |
+| 1141A | [Game 23](https://codeforces.com/contest/1141/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1141/A%20-%20Game%2023/solution.cpp) |
 | 1300B | [Assigning to Classes](https://codeforces.com/contest/1300/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1300/B%20-%20Assigning%20to%20Classes/solution.cpp) |
 | 1303A | [Erasing Zeroes](https://codeforces.com/contest/1303/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1303/A%20-%20Erasing%20Zeroes/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
@@ -122,6 +123,7 @@
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
+| 1141A | [Game 23](https://codeforces.com/contest/1141/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1141/A%20-%20Game%2023/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1368/A%20-%20C%2B%3D/solution.cpp) |
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.cpp) |
