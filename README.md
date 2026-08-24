@@ -6,24 +6,31 @@
 
 | Total Problems | Topics |
 |---|---|
-| 46 | 10 |
+| 47 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [*special](#special) (1)
 - [Uncategorized](#uncategorized) (6)
 - [brute force](#brute-force) (7)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [greedy](#greedy) (7)
-- [implementation](#implementation) (33)
+- [implementation](#implementation) (34)
 - [math](#math) (11)
 - [sortings](#sortings) (3)
 - [strings](#strings) (10)
 
 ---
+
+### *special
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 
 ### Uncategorized
 
@@ -90,6 +97,7 @@
 | 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.cpp) |
 | 144A | [Arrival of the General](https://codeforces.com/contest/144/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/144/A%20-%20Arrival%20of%20the%20General/solution.cpp) |
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.cpp) |
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 | 219A | [k-String](https://codeforces.com/contest/219/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/219/A%20-%20k-String/solution.cpp) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
