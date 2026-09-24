@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 52 | 11 |
+| 53 | 12 |
 
 ---
 
@@ -18,9 +18,10 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
-- [greedy](#greedy) (8)
+- [games](#games) (1)
+- [greedy](#greedy) (9)
 - [implementation](#implementation) (37)
-- [math](#math) (14)
+- [math](#math) (15)
 - [sortings](#sortings) (3)
 - [strings](#strings) (10)
 
@@ -75,6 +76,12 @@
 |---|---------|------------|----------|
 | 702A | [Maximum Increase](https://codeforces.com/contest/702/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/702/A%20-%20Maximum%20Increase/solution.cpp) |
 
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
@@ -87,6 +94,7 @@
 | 1373A | [Donut Shops](https://codeforces.com/contest/1373/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1373/A%20-%20Donut%20Shops/solution.cpp) |
 | 1391B | [Fix You](https://codeforces.com/contest/1391/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1391/B%20-%20Fix%20You/solution.cpp) |
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.cpp) |
+| 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
 
 ### implementation
 
@@ -148,6 +156,7 @@
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.cpp) |
 | 1433A | [Boring Apartments](https://codeforces.com/contest/1433/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1433/A%20-%20Boring%20Apartments/solution.cpp) |
 | 2257B | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/2257/B%20-%20Gigantomachy/solution.cpp) |
+| 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
 
 ### sortings
 
