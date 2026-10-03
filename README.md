@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 60 | 13 |
+| 61 | 14 |
 
 ---
 
@@ -15,16 +15,17 @@
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (8)
 - [brute force](#brute-force) (8)
+- [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (14)
 - [implementation](#implementation) (40)
-- [math](#math) (15)
+- [math](#math) (16)
 - [sortings](#sortings) (5)
 - [strings](#strings) (10)
-- [two pointers](#two-pointers) (7)
+- [two pointers](#two-pointers) (8)
 
 ---
 
@@ -59,6 +60,12 @@
 | 1391B | [Fix You](https://codeforces.com/contest/1391/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1391/B%20-%20Fix%20You/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 1972A | [Contest Proposal](https://codeforces.com/contest/1972/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1972/A%20-%20Contest%20Proposal/solution.cpp) |
+
+### combinatorics
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.cpp) |
 
 ### constructive algorithms
 
@@ -166,6 +173,7 @@
 | 1373A | [Donut Shops](https://codeforces.com/contest/1373/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1373/A%20-%20Donut%20Shops/solution.cpp) |
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.cpp) |
 | 1433A | [Boring Apartments](https://codeforces.com/contest/1433/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1433/A%20-%20Boring%20Apartments/solution.cpp) |
+| 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.cpp) |
 | 2257B | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/2257/B%20-%20Gigantomachy/solution.cpp) |
 | 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
 
@@ -202,6 +210,7 @@
 | 1462A | [Favorite Sequence](https://codeforces.com/contest/1462/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1462/A%20-%20Favorite%20Sequence/solution.cpp) |
 | 1746B | [Rebellion](https://codeforces.com/contest/1746/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1746/B%20-%20Rebellion/solution.cpp) |
 | 1760D | [Challenging Valleys](https://codeforces.com/contest/1760/problem/D) | 1000 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1760/D%20-%20Challenging%20Valleys/solution.cpp) |
+| 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.cpp) |
 | 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.cpp) |
 | 1851B | [Parity Sort](https://codeforces.com/contest/1851/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1851/B%20-%20Parity%20Sort/solution.cpp) |
 | 1972A | [Contest Proposal](https://codeforces.com/contest/1972/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1972/A%20-%20Contest%20Proposal/solution.cpp) |
