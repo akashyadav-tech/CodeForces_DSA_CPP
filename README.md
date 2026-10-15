@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 78 | 15 |
+| 79 | 15 |
 
 ---
 
@@ -21,11 +21,11 @@
 - [dp](#dp) (1)
 - [games](#games) (3)
 - [greedy](#greedy) (23)
-- [implementation](#implementation) (43)
+- [implementation](#implementation) (44)
 - [math](#math) (26)
 - [number theory](#number-theory) (4)
 - [sortings](#sortings) (6)
-- [strings](#strings) (10)
+- [strings](#strings) (11)
 - [two pointers](#two-pointers) (8)
 
 ---
@@ -178,6 +178,7 @@
 | 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.cpp) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
 | 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
+| 2276B | [Replace and Compress](https://codeforces.com/contest/2276/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/2276/B%20-%20Replace%20and%20Compress/solution.cpp) |
 
 ### math
 
@@ -244,6 +245,7 @@
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.cpp) |
 | 1883B | [Chemistry](https://codeforces.com/contest/1883/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/1883/B%20-%20Chemistry/solution.cpp) |
+| 2276B | [Replace and Compress](https://codeforces.com/contest/2276/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/2276/B%20-%20Replace%20and%20Compress/solution.cpp) |
 
 ### two pointers
 
