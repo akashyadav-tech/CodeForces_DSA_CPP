@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 83 | 15 |
+| 84 | 15 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (12)
+- [Uncategorized](#uncategorized) (13)
 - [brute force](#brute-force) (11)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (5)
@@ -52,6 +52,7 @@
 | 2278A | [Fraction and Six](https://codeforces.com/contest/2278/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/2278/A%20-%20Fraction%20and%20Six/solution.cpp) |
 | 2278B | [Stakes and Shapes](https://codeforces.com/contest/2278/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/2278/B%20-%20Stakes%20and%20Shapes/solution.cpp) |
 | 2280A | [Are They the Same?](https://codeforces.com/contest/2280/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/2280/A%20-%20Are%20They%20the%20Same%3F/solution.cpp) |
+| 2288A | [Youmu Konpaku and the Duel](https://codeforces.com/contest/2288/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/akashyadav-tech/CodeForces_DSA_CPP/blob/HEAD/2288/A%20-%20Youmu%20Konpaku%20and%20the%20Duel/solution.cpp) |
 
 ### brute force
 
